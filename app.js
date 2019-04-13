@@ -5,7 +5,6 @@
 
 // var box;
 
-
 // console.log(box);
 // console.log(num);
 
@@ -18,11 +17,23 @@
 
 // toUpper(name);
 
-var name="this is a javascript tut from dev ed";
+//for my practice
+// var name="this is a javascript tut from dev ed";
 
-function toUpper(text) {
-const upperCased = text.toUpperCase();
-console.log(upperCased);
-}
+// function toUpper(text) {
+// const upperCased = text.toUpperCase();
+// console.log(upperCased);
+// }
 
-toUpper(name);
+// toUpper(name);
+
+//CONCATENATION...
+//with numbers
+// const myAge = 24;
+
+// const yourAge = 30;
+
+// console.log(myAge + yourAge);
+
+//with strings
+console.log(`hello my name is` + ` pooja`);
